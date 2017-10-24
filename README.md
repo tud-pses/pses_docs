@@ -1,6 +1,6 @@
 # PSES Docs
 
-This README aims to show you a clear overview about the different packages / relevant files in the PSES Workspace and to give you a quick access to their documentation.
+This README aims to show you a clear overview about the different packages / relevant files in the PSES Workspace and to give you quick access to their documentation.
 
 ## Essential
 The following ROS-packages and files make up the core of the PSES and are essential to work with the cars at our lab. 
