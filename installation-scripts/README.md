@@ -21,4 +21,4 @@ source ~/.bashrc
 
 *	Restart your computer
 
-**Important:** install4. sh should only be executed on the car. This file installs and configures the driver for the Kinect.
+**Important:** install4.sh should only be executed on the car. This file installs and configures the driver for the Kinect.
