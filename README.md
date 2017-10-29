@@ -16,7 +16,7 @@ The following packages and files are aimed to give you extra tools to make thing
   * [PSES Dashboard](https://github.com/tud-pses/pses_dashboard/wiki): This ROS-package provides a simple GUI to control the PSES robot and display sensor information. _This ROS-package is **already installed** in all PSES cars and in the image for the virtual machine._  
   * [PSES Kinect Filter](https://github.com/tud-pses/pses_kinect_filter): This ROS-package implements a filter for the kinect depth image based on a median filter and a voxel grid filter. This package aims to reduce noise and to eliminate irrelevant points from the point cloud.
   * [PSES Odometry](https://github.com/tud-pses/pses_odometry): This packages provides a very crude odometry, calculated from (unfiltered) imu and rotary encoder messages.
-  * [CarControl App](https://github.com/tud-pses/CarControl-App/wiki): Android app for remote controlling a PSES robot.
+  * [CarControl App](https://github.com/tud-pses/CarControl-App/releases): Android app for remote controlling a PSES robot.
   * [UcBoard](https://github.com/tud-pses/ucboard): If you are interested in the microcontroller code, this is the repository to look into.
   * [UcBoard documentation](https://github.com/tud-pses/ucboard/blob/master/ucboard.pdf): Detailed documentation of the microcontroller and its firmware.
   * [UcBoard Schematics](https://github.com/tud-pses/ucboard/blob/master/ucboard_schematic.pdf): Circuit schematics of the microcontroller.
