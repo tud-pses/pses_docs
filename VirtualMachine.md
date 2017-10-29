@@ -27,8 +27,8 @@ Size: 4GB
 |            HDD            | 50GB dynamically allocated |
 |        Video Memory       |            32MB            |
 |          Network          |             NAT            |
-|  Bidirectional Copy/Paste |             No             |
-| Bidirectional Drag'n'Drop |             No             |
+|  Bidirectional Copy/Paste |             Yes            |
+| Bidirectional Drag'n'Drop |             Yes            |
 |            SSH            |             Yes            |
 |            User           |            pses            |
 |          Password         |           letmein          |
