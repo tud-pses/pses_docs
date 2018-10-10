@@ -13,11 +13,6 @@ sudo apt-get update
 sudo apt-get -y upgrade
 sudo apt-get -y install chromium-browser
 sudo apt-get -y install gedit
-sudo add-apt-repository -y ppa:levi-armstrong/qt-libraries-bionic
-sudo add-apt-repository -y ppa:levi-armstrong/ppa
-sudo apt update
-sudo apt-get -y install qt59creator
-sudo apt-get -y install qt57creator-plugin-ros
 sudo apt-get update
 sudo apt-get -y install cutecom
 sudo apt-get -y install git
