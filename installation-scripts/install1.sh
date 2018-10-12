@@ -18,6 +18,7 @@ sudo apt-get -y install cutecom
 sudo apt-get -y install git
 sudo apt-get -y install openssh-server
 sudo apt-get -y install at-spi2-core
+sudo apt-get -y install net-tools
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
 sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key 421C365BD9FF1F717815A3895523BAEEB01FA116
 sudo apt-get update
@@ -49,3 +50,8 @@ git clone https://github.com/tud-pses/serial.git
 cd ..
 rosdep install -y -r --from-paths .
 catkin_make -DCMAKE_BUILD_TYPE="Release"
+# Part 4: Roboware Studio
+cd ~/Downloads
+wget https://github.com/TonyRobotics/RoboWare/raw/master/Studio/roboware-studio_1.2.0-1524709819_amd64.deb
+sudo DEBIAN_FRONTEND=noninteractive dpkg -i roboware-studio_1.2.0-1524709819_amd64.deb
+sudo apt-get -y -f install
