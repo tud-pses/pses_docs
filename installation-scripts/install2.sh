@@ -1,5 +1,4 @@
 #!/bin/bash
-
 cd $HOME
 git clone https://github.com/OpenKinect/libfreenect2.git
 cd libfreenect2
@@ -23,6 +22,8 @@ sudo cp ../platform/linux/udev/90-kinect2.rules /etc/udev/rules.d/
 cd $HOME/catkin_ws/src/
 git clone https://github.com/tud-pses/iai_kinect2.git
 cd iai_kinect2
+source /opt/ros/melodic/setup.bash
+source $HOME/catkin_ws/devel/setup.bash
 rosdep install -r --from-paths .
 cd $HOME/catkin_ws
 catkin_make -DCMAKE_BUILD_TYPE="Release"
