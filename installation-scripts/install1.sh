@@ -55,3 +55,7 @@ cd ~/Downloads
 wget https://github.com/TonyRobotics/RoboWare/raw/master/Studio/roboware-studio_1.2.0-1524709819_amd64.deb
 sudo DEBIAN_FRONTEND=noninteractive dpkg -i roboware-studio_1.2.0-1524709819_amd64.deb
 sudo apt-get -y -f install
+sudo add-apt-repository -y "deb http://us.archive.ubuntu.com/ubuntu/ artful-updates main"
+sudo apt-get update
+sudo apt-get -y install libfreetype6=2.8-0.2ubuntu2.1
+sudo apt-mark hold libfreetype6
