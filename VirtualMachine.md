@@ -34,5 +34,4 @@ Size: 4GB
 |                           |                            |
 
 ## Authors
-
 * **Nicolas Acero** 
