@@ -11,9 +11,9 @@ We offer a virtual machine if you desire to have a virtual machine of Lubuntu 18
 * [PSES Dashboard](https://github.com/tud-pses/pses_dashboard/wiki)
 * Roboware Studio 1.2.0
 
-## Download Link
-Download: [PSES.OVA](https://drive.google.com/open?id=0BzuNzYIdFquYaDJEVDVSWWN2M3c)
-Size: 3.26GB
+## Download Link  
+Download: [PSES.OVA](https://drive.google.com/open?id=0BzuNzYIdFquYaDJEVDVSWWN2M3c)  
+Size: 3.26GB  
 MD5-Checksum: 5ca6efde0ab970701be75bc59e7fa376
 
 ## Default settings
