@@ -14,7 +14,7 @@ We offer a virtual machine if you desire to have a virtual machine of Lubuntu 18
 ## Download Link
 Download: [PSES.OVA](https://drive.google.com/open?id=0BzuNzYIdFquYaDJEVDVSWWN2M3c)
 
-Size: 4GB
+Size: 3.3GB
 
 ## Default settings
 
