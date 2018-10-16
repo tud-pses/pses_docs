@@ -12,9 +12,10 @@ We offer a virtual machine if you desire to have a virtual machine of Lubuntu 18
 * Roboware Studio 1.2.0
 
 ## Download Link  
-Download: [PSES.OVA](https://drive.google.com/open?id=1BSD08aen48cKhK_R8JoSkd-aXmIYZaQR)  
-Size: 3.26GB  
+Download: [PSES.OVA](https://www.es.tu-darmstadt.de/studentftp/ps-es/PSES.ova)  
+Size: 3.0GB
 MD5-Checksum: 5ca6efde0ab970701be75bc59e7fa376
+**Important:** Login credentials to download the VM are only available in the **PSES Moodle course**.
 
 ## Default settings
 
