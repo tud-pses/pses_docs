@@ -24,6 +24,6 @@ git clone https://github.com/tud-pses/iai_kinect2.git
 cd iai_kinect2
 source /opt/ros/melodic/setup.bash
 source $HOME/catkin_ws/devel/setup.bash
-rosdep install -r --from-paths .
+rosdep install -r -y --from-paths .
 cd $HOME/catkin_ws
 catkin_make -DCMAKE_BUILD_TYPE="Release"
